@@ -11,4 +11,4 @@ A simple static clone of the YouTube homepage built using **HTML** and **CSS**. 
 - **Clean and Organized Code**: Follows HTML5 semantic structure and CSS best practices.
 
 Output:
-images/output youtube-clone.png
+![Project Output](images/output%20youtube-clone.png)
